@@ -1,0 +1,20 @@
+.grandpa {
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    margin: 0 35px;
+}
+
+.grandpa div {
+    border: 2px solid goldenrod;
+    margin: 15px 15px 15px 15px;
+    padding: 0 25px;
+    border-radius: 10px;
+}
+
+.house-button {
+    margin-bottom: 12px;
+}
+
+.grandpa p {
+    margin: 3px 10px;
+}

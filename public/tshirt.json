@@ -1,0 +1,182 @@
+[
+    {
+        "id": "NVTS-01",
+        "name": "NAVE BLUE T-SHIRT",
+        "price": 450,
+        "picture": "https://www.capetownclothing.com/wp-content/uploads/2019/10/9-Petrol.png"
+    },
+    {
+        "id": "GCTS-02",
+        "name": "GRAY COLOR WOMEN T-SHIRT",
+        "price": 500,
+        "picture": "https://cdn.shopify.com/s/files/1/0038/1111/5123/products/wcoppercrew_600x.jpg?v=1625576002"
+    },
+    {
+        "id": "MSTS-03",
+        "name": "MENS SHORTS RED-BLACK T-SHIRT",
+        "price": 180,
+        "picture": "https://m.media-amazon.com/images/I/71vRP-wBo4L._AC_UY550_.jpg"
+    },
+    {
+        "id": "SCTS-04",
+        "name": "SOFT & COZY COTTON T-SHIRT",
+        "price": 350,
+        "picture": "https://m.media-amazon.com/images/I/412h-PR-tsL._AC_.jpg"
+    },
+    {
+        "id": "POTS-05",
+        "name": "100% COTTON PLAIN ORANGE T-SHIRT",
+        "price": 450,
+        "picture": "https://m.media-amazon.com/images/I/61oQftzjO7L._AC_UX522_.jpg"
+    },
+    {
+        "id": "GPTS-06",
+        "name": "GILDAN PREMIUM COTTON T-SHIRT",
+        "price": 500,
+        "picture": "https://www.myshirt.com.my/wp-content/uploads/2016/01/76000-Gildan-Premium-Soft-Spun-T-Shirt-Heather-Red-600x750.jpg"
+    },
+    {
+        "id": "JUTS-07",
+        "name": "JOES USA SOFT AND COZY COTTON T-SHIRT",
+        "price": 450,
+        "picture": "https://m.media-amazon.com/images/I/51xg9+KcttL._AC_SX466._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "id": "SUTS-08",
+        "name": "SUS T-SHIRT",
+        "price": 450,
+        "picture": "https://m.media-amazon.com/images/I/A1XSsTFkLlL._CLa%7C2140%2C2000%7C51snp5wYzQL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png"
+    },
+    {
+        "id": "LSTS-09",
+        "name": "LETSSEE SPASE T-SHIRT",
+        "price": 300,
+        "picture": "https://unblast.com/wp-content/uploads/2021/05/Single-T-shirt-Mockup.jpg"
+    },
+    {
+        "id": "RDTS-10",
+        "name": "SOLID RED T-SHIRT",
+        "price": 420,
+        "picture": "https://m.media-amazon.com/images/I/51sdIP8NCjL._AC_UL1000_.jpg"
+    },
+    {
+        "id": "OLTS-11",
+        "name": "OLIVES COLOR T-SHIRT",
+        "price": 530,
+        "picture": "https://m.media-amazon.com/images/I/61MzowWawgL._AC_UL1000_.jpg"
+    },
+    {
+        "id": "GNTS-12",
+        "name": "100% COTTON GREEN T-SHIRT",
+        "price": 450,
+        "picture": "https://i.pinimg.com/originals/64/61/6c/64616c98fa2ee5ab5839a6d4afa15ebe.png"
+    },
+    {
+        "id": "BWTS-13",
+        "name": "BLACK COLOR LADIES T-SHIRT",
+        "price": 700,
+        "picture": "https://www.greencotton.com.my/wp-content/uploads/CT7176-DarkGreyMelange.jpg"
+    },
+    {
+        "id": "BATS-14",
+        "name": "BLACK COTTON ADIDAS T-SHIRT",
+        "price": 850,
+        "picture": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium/adidas-Adicolor-Loose-Black-T-Shirt-_337048-front-US.jpg"
+    },
+    {
+        "id": "SXTS-15",
+        "name": "T-SHIRT & TOPS",
+        "price": 520,
+        "picture": "https://www.swixsport.com/globalassets/inriver/resources/40166-90011_computedimageurl.jpg"
+    },
+    {
+        "id": "SWTS-16",
+        "name": "SWIX MOTION ADVENTURE T-SHIRT",
+        "price": 475,
+        "picture": "https://www.swixsport.com/globalassets/inriver/resources/40936-00000-main02.jpg?width=400&height=400&f.sharpen=30"
+    },
+    {
+        "id": "CXTS-17",
+        "name": "CARBON T-SHIRT RED & BLACK",
+        "price": 550,
+        "picture": "https://www.swixsport.com/globalassets/inriver/resources/40876-99992-main02.jpg?width=400&height=400&f.sharpen=30"
+    },
+    {
+        "id": "CCTS-18",
+        "name": "COMFORT COLORS MENS T-SHIRT",
+        "price": 350,
+        "picture": "https://m.media-amazon.com/images/I/918LdJ2mxoL._AC_UL320_.jpg"
+    },
+    {
+        "id": "CRTS-19",
+        "name": "KIDS RED T-SHIRT",
+        "price": 790,
+        "picture": "https://m.media-amazon.com/images/I/810SDfh-ZkL._AC_UL320_.jpg"
+    },
+    {
+        "id": "LSTS-20",
+        "name": "MENS LONG SLEEVE T-SHIRT",
+        "price": 370,
+        "picture": "https://m.media-amazon.com/images/I/71z5B7UmJJL._AC_UL320_.jpg"
+    },
+    {
+        "id": "CWTS-21",
+        "name": "WHITE COTTON T-SHIRT",
+        "price": 420,
+        "picture": "https://m.media-amazon.com/images/I/719Dl9eAR5L._AC_UL320_.jpg"
+    },
+    {
+        "id": "OCTS-22",
+        "name": "CARHARTT MENS BIG & TALL COTTON SLEEVE",
+        "price": 570,
+        "picture": "https://m.media-amazon.com/images/I/71DOpJtHLsL._AC_UL320_.jpg"
+    },
+    {
+        "id": "CLTS-23",
+        "name": "DARK RED LONG SLEEVE T-SHIRT",
+        "price": 550,
+        "picture": "https://m.media-amazon.com/images/I/31XO2qJLiqL._AC_UL320_.jpg"
+    },
+    {
+        "id": "CCTS-24",
+        "name": "COCA-COLA CLASSIC VENTAGE T-SHIRT",
+        "price": 350,
+        "picture": "https://m.media-amazon.com/images/I/71Hw9fhvnxL._AC_UL320_.jpg"
+    },
+    {
+        "id": "NTTS-25",
+        "name": "NAUTICA MENS COLOR BLOCK T-SHIRT",
+        "price": 780,
+        "picture": "https://m.media-amazon.com/images/I/81EpaYPq2HL._AC_UL320_.jpg"
+    },
+    {
+        "id": "LRTS-26",
+        "name": "MENS CYCLE LOGO GRAPHIC T-SHIRT",
+        "price": 750,
+        "picture": "https://m.media-amazon.com/images/I/71jG+Dap1XL._AC_UL320_.jpg"
+    },
+    {
+        "id": "BCTS-27",
+        "name": "BELLA + CANVAS UNISEX JERSEY T-SHIRT",
+        "price": 870,
+        "picture": "https://m.media-amazon.com/images/I/51Di6bM-wZL._AC_UL320_.jpg"
+    },
+    {
+        "id": "THTS-28",
+        "name": "TOMMY HILFIGER MENS T-SHIRT WITH BUTTON",
+        "price": 370,
+        "picture": "https://m.media-amazon.com/images/I/61Rof-HRV8L._AC_UL320_.jpg"
+    },
+    {
+        "id": "LGTS-29",
+        "name": "MENS LOGO PLUS T-SHIRT",
+        "price": 990,
+        "picture": "https://m.media-amazon.com/images/I/71Fe6qlzN7L._AC_UL320_.jpg"
+    },
+    {
+        "id": "DMTS-30",
+        "name": "DISNEY MENS MONKEY MOUSE T-SHIRT",
+        "price": 250,
+        "picture": "https://m.media-amazon.com/images/I/91xycrGVNBL._AC_UL320_.jpg"
+    }
+]
